@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_item1"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24" />
+
+    <item
+        android:id="@+id/navigation_item2"
+        android:title="Tests"
+        android:icon="@drawable/baseline_circle_notifications_24" />
+    <item
+        android:id="@+id/navigation_item3"
+        android:title="Super"
+        android:icon="@drawable/baseline_event_note_24" />
+    <item
+        android:id="@+id/navigation_item4"
+        android:title="pass"
+        android:icon="@drawable/baseline_pan_tool_24" />
+    <item
+        android:id="@+id/navigation_item5"
+        android:title="SkillAcademy"
+        android:icon="@drawable/baseline_pageview_24" />
+</menu>
